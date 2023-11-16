@@ -2,7 +2,8 @@
 - 👀 I’m interested in ...Frontend developer
 - 🌱 I’m currently learning ...react js and next js
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me ...javascript
+
 
 <!---
 Arkar08/Arkar08 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
