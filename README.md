@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Arkar08
 - 👀 I’m interested in ...Frontend developer
 - 🌱 I’m currently learning ...react js and next js
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...javascript
+- 💞️ I’m looking to collaborate ..with web developers.
+- 📫 How to reach me ...https://github.com/Arkar08/Arkar08
 
 
 <!---
