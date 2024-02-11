@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...Frontend developer
 - 🌱 I’m currently learning ...react js and next js
 - 💞️ I’m looking to collaborate ..with web developers.
-- 📫 How to reach me ...https://github.com/Arkar08/Arkar08
+- 📫 How to reach me ...https://github.com/Arkar08
 
 
 <!---
