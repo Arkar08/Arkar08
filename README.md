@@ -25,7 +25,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arkar08&show_icons=true&locale=en" alt="arkar08" /></p>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=DenverCoder1)](https://git.io/streak-stats)
+<p><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=" alt="GitHub Streak" /></a></p>
 
 <!---
 Arkar08/Arkar08 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
