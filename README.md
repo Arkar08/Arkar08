@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Soe Arkar Maungand I'm a FullStack Developer, from Myanmar</h2>
+<h2 align="left">Hi 👋! My name is Soe Arkar Maung and I'm a Fullstack Developer, from Myanmar</h2>
 
 ###
 
@@ -82,7 +82,19 @@
 
 ###
 
-<br clear="both">
+<div align="center">
+  <img src="https://profile-counter.glitch.me/Arkar08/count.svg?"  />
+</div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Arkar08/Arkar08/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Arkar08/Arkar08/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Arkar08/Arkar08/output/pacman-contribution-graph.svg">
+</picture>
+
+###
 
 <img src="https://raw.githubusercontent.com/Arkar08/Arkar08/output/snake.svg" alt="Snake animation" />
 
