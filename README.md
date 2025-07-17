@@ -78,8 +78,3 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Arkar08/Arkar08/output/snake.svg" alt="Snake animation" />
-
-###
